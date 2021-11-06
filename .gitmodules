@@ -1,0 +1,6 @@
+[submodule "upstream"]
+	path = upstream
+	url = https://git.savannah.gnu.org/git/libunistring.git
+[submodule "gnulib"]
+	path = gnulib
+	url = https://git.savannah.gnu.org/git/gnulib.git
